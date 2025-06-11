@@ -7,4 +7,5 @@ class AppColors {
   static const errorColor = 0xFFB00020; // Red
   static const textColor = 0xFF000000; // Black
   static const accentColor = 0xFFFFC107; // Amber
+  
 }
